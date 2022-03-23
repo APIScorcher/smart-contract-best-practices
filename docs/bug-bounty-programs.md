@@ -13,6 +13,6 @@ active.
 - [Etherscan.io](https://etherscan.io/bugbounty)
 - [Gitcoin Bounties](https://gitcoin.co/explorer): Bounty-based collaboration tool
 - [ImmutableSoft](https://immutablesoft.github.io/ImmutableEcosystem/)
-- [0xProject](https://0x.org/docs/guides/bug-bounty-program#rewards)
+- [0xProject](https://docs.0x.org/developer-resources/bounties)
 - [Parity](https://www.parity.io/bug-bounty/): Includes client and contract code
 - [Immunefi](https://immunefi.com/): Bug Bounty platform
